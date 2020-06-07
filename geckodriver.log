@@ -1,0 +1,10 @@
+1591544404255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileq5VIOh"
+1591544409408	Marionette	INFO	Listening on port 55106
+1591544409506	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-06-07 17:40:25.872 plugin-container[5036:117466] PLClientLogging: unknown permission type 2
+1591544888353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilen61JtI"
+1591544894415	Marionette	INFO	Listening on port 55305
+1591544894479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://smartlock.google.com/iframe/request?client=https%3A%2F%2Fwww.linkedin.com&id=b9fb8e8d46745971d4279ca34908464c7c4ed65a858052cedfbf28650c7635c5&renderMode=navPopout&preloadRequest=%7B%22type%22%3A%22hint%22%2C%22options%22%3A%7B%22supportedAuthMethods%22%3A%5B%22https%3A%2F%2Faccounts.google.com%22%5D%2C%22supportedIdTokenProviders%22%3A%5B%7B%22uri%22%3A%22https%3A%2F%2Faccounts.google.com%22%2C%22clientId%22%3A%22990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com%22%7D%5D%2C%22context%22%3A%22signIn%22%7D%7D&features=%7B%22feature%22%3A%5B%22DISPLAY_RP_TOS%22%5D%7D, line 101: ReferenceError: bootstrap is not defined
+2020-06-07 17:48:32.386 plugin-container[5140:120777] PLClientLogging: unknown permission type 2
+1591544956570	Marionette	INFO	Stopped listening on port 55305
