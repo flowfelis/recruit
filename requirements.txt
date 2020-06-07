@@ -27,5 +27,6 @@ soupsieve==2.0.1
 toml==0.10.1
 tqdm==4.46.1
 urllib3==1.25.9
+""" urllib3==1.25.9 """
 webdrivermanager==0.8.0
 wrapt==1.12.1
